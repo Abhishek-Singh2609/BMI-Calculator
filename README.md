@@ -4,6 +4,7 @@
  ![BMI Calculator](<BMI Calc.png>)
  ![bmi (2)](https://github.com/Abhishek-Singh2609/BMI-Calculator/assets/76973944/a552bf54-88cb-468b-b965-208c9fd820af)
 ![bmi](https://github.com/Abhishek-Singh2609/BMI-Calculator/assets/76973944/b6bab46e-28d4-4bcd-8617-e69594385ac2)
+
  **Benefits:**
 
 - Quick and Easy
